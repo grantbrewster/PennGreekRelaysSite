@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PennGreekRelaysSite/precache-manifest.f4dc7fe9daaa70f2c6fbb008a7713884.js"
+  "/PennGreekRelaysSite/precache-manifest.2dfbf4d6ec41fa434f02724e61fcc21c.js"
 );
 
 self.addEventListener('message', (event) => {

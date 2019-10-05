@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/PennGreekRelaysSite/static/css/main.82624d44.chunk.css",
-    "main.js": "/PennGreekRelaysSite/static/js/main.2b4793c6.chunk.js",
-    "main.js.map": "/PennGreekRelaysSite/static/js/main.2b4793c6.chunk.js.map",
+    "main.css": "/PennGreekRelaysSite/static/css/main.f005b443.chunk.css",
+    "main.js": "/PennGreekRelaysSite/static/js/main.69e6426a.chunk.js",
+    "main.js.map": "/PennGreekRelaysSite/static/js/main.69e6426a.chunk.js.map",
     "runtime-main.js": "/PennGreekRelaysSite/static/js/runtime-main.b4d8f736.js",
     "runtime-main.js.map": "/PennGreekRelaysSite/static/js/runtime-main.b4d8f736.js.map",
     "static/css/2.266e55a5.chunk.css": "/PennGreekRelaysSite/static/css/2.266e55a5.chunk.css",
-    "static/js/2.d2c9a5e7.chunk.js": "/PennGreekRelaysSite/static/js/2.d2c9a5e7.chunk.js",
-    "static/js/2.d2c9a5e7.chunk.js.map": "/PennGreekRelaysSite/static/js/2.d2c9a5e7.chunk.js.map",
+    "static/js/2.3598c8bf.chunk.js": "/PennGreekRelaysSite/static/js/2.3598c8bf.chunk.js",
+    "static/js/2.3598c8bf.chunk.js.map": "/PennGreekRelaysSite/static/js/2.3598c8bf.chunk.js.map",
     "index.html": "/PennGreekRelaysSite/index.html",
-    "precache-manifest.f4dc7fe9daaa70f2c6fbb008a7713884.js": "/PennGreekRelaysSite/precache-manifest.f4dc7fe9daaa70f2c6fbb008a7713884.js",
+    "precache-manifest.2dfbf4d6ec41fa434f02724e61fcc21c.js": "/PennGreekRelaysSite/precache-manifest.2dfbf4d6ec41fa434f02724e61fcc21c.js",
     "service-worker.js": "/PennGreekRelaysSite/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/PennGreekRelaysSite/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.82624d44.chunk.css.map": "/PennGreekRelaysSite/static/css/main.82624d44.chunk.css.map",
+    "static/css/main.f005b443.chunk.css.map": "/PennGreekRelaysSite/static/css/main.f005b443.chunk.css.map",
+    "static/media/bridgeTest.jpg": "/PennGreekRelaysSite/static/media/bridgeTest.157c0dc3.jpg",
     "static/media/logo.svg": "/PennGreekRelaysSite/static/media/logo.25bf045c.svg"
   }
 }
