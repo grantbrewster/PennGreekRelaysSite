@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45f5d7c2527c02287f0d2e0d3ad990ac",
+    "revision": "2becbcf224b145cdb8e296c880699179",
     "url": "/PennGreekRelaysSite/index.html"
   },
   {
-    "revision": "279e44642dce9360c63b",
+    "revision": "b4e8d649f13aaa7e6fd1",
+    "url": "/PennGreekRelaysSite/static/css/2.266e55a5.chunk.css"
+  },
+  {
+    "revision": "f7adec85136bc81b480e",
     "url": "/PennGreekRelaysSite/static/css/main.82624d44.chunk.css"
   },
   {
-    "revision": "9beddafbb4be0b4cd285",
-    "url": "/PennGreekRelaysSite/static/js/2.f09bbac4.chunk.js"
+    "revision": "b4e8d649f13aaa7e6fd1",
+    "url": "/PennGreekRelaysSite/static/js/2.6f40a7fb.chunk.js"
   },
   {
-    "revision": "279e44642dce9360c63b",
-    "url": "/PennGreekRelaysSite/static/js/main.41d83c48.chunk.js"
+    "revision": "f7adec85136bc81b480e",
+    "url": "/PennGreekRelaysSite/static/js/main.dda2c381.chunk.js"
   },
   {
     "revision": "acf7f04a9336c5130de7",

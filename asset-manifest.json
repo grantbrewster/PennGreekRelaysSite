@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/PennGreekRelaysSite/static/css/main.82624d44.chunk.css",
-    "main.js": "/PennGreekRelaysSite/static/js/main.41d83c48.chunk.js",
-    "main.js.map": "/PennGreekRelaysSite/static/js/main.41d83c48.chunk.js.map",
+    "main.js": "/PennGreekRelaysSite/static/js/main.dda2c381.chunk.js",
+    "main.js.map": "/PennGreekRelaysSite/static/js/main.dda2c381.chunk.js.map",
     "runtime-main.js": "/PennGreekRelaysSite/static/js/runtime-main.b4d8f736.js",
     "runtime-main.js.map": "/PennGreekRelaysSite/static/js/runtime-main.b4d8f736.js.map",
-    "static/js/2.f09bbac4.chunk.js": "/PennGreekRelaysSite/static/js/2.f09bbac4.chunk.js",
-    "static/js/2.f09bbac4.chunk.js.map": "/PennGreekRelaysSite/static/js/2.f09bbac4.chunk.js.map",
+    "static/css/2.266e55a5.chunk.css": "/PennGreekRelaysSite/static/css/2.266e55a5.chunk.css",
+    "static/js/2.6f40a7fb.chunk.js": "/PennGreekRelaysSite/static/js/2.6f40a7fb.chunk.js",
+    "static/js/2.6f40a7fb.chunk.js.map": "/PennGreekRelaysSite/static/js/2.6f40a7fb.chunk.js.map",
     "index.html": "/PennGreekRelaysSite/index.html",
-    "precache-manifest.b10f2c2df4fced39c986fef63c444eca.js": "/PennGreekRelaysSite/precache-manifest.b10f2c2df4fced39c986fef63c444eca.js",
+    "precache-manifest.72b8cf527371c4aa8f014e6f490d8fd1.js": "/PennGreekRelaysSite/precache-manifest.72b8cf527371c4aa8f014e6f490d8fd1.js",
     "service-worker.js": "/PennGreekRelaysSite/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/PennGreekRelaysSite/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.82624d44.chunk.css.map": "/PennGreekRelaysSite/static/css/main.82624d44.chunk.css.map",
     "static/media/logo.svg": "/PennGreekRelaysSite/static/media/logo.25bf045c.svg"
   }
