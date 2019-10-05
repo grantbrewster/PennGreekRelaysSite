@@ -14,7 +14,10 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  font-family: futura;
+  font-style: bold;
   font-size: calc(10px + 2vmin);
+  font-size: 100px;
   color: white;
 }
 
@@ -35,6 +38,7 @@
   color: white;
 }
 
+
 .App-link {
   color: #09d3ac;
 }
@@ -53,6 +57,19 @@
   border: none;
  }
  
+ .Row-Header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: futura;
+  font-style: bold;
+  font-size: calc(10px + 2vmin);
+  font-size: 30px;
+  color: white;
+}
+
  #cleanButton:hover {
   border: none;
   background: orange;

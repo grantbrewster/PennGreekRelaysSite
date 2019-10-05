@@ -7,10 +7,9 @@ import ListScrollToItemOutside from './ListScrollToItemOutside';
 function App() {
   return (
     <div className="container">
-      <div id="top banner">
-        <figure>
-        <img align = 'center' height = '50px' src= {logo} alt='randoms' id="img1"/>
-        <h3 align='center' class='App-Title'>Penn Greek Relays</h3>
+      <div id="top banner" align = "center">
+        <figure align="center">
+        <h3 align='center' className='App-Title'>THE PENN GREEK RELAYS</h3>
         </figure>
       </div>
       
