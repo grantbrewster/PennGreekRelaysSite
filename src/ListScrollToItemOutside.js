@@ -1,5 +1,8 @@
 import React, { createRef } from 'react';
 import './App.css';
+import Button from 'react-bootstrap/Button';
+import ButtonGroup from 'react-bootstrap/ButtonGroup';
+
 
 const list = [
   {
@@ -41,14 +44,15 @@ const ListScrollToItem = () => {
         {list.map(item => (
           <td key={item.id} >
             
-            <button 
+            <Button 
               // id = "cleanButton"
-              class="w3-button w3-black"
-              type="button"
+              variant = "outline-primary"
+              //class="w3-button w3-black"
+              //type="button"
               onClick={() => handleClick(item.id)}
             >
               {item.id}
-            </button>
+            </Button>
           </td>
         ))}
       </ul>
