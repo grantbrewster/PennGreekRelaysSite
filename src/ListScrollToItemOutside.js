@@ -101,26 +101,51 @@ const ListScrollToItem = () => {
       </ul>
 
       <ul>
-        <Container align="center" style={{fontSize: 30, fontWeight: 'bold', fontFamily: 'futura'}} >
+        <Container align="center" style={{fontSize: 30, fontWeight: 'bold', fontFamily: 'futura'}} fluid = "true" >
           <Row key = 'Story' ref={refs['Story']}>
-            <Col lg="auto" >
-              <Row>{'STORY: '}</Row>
+            <Col fluid = "true" md="auto" lg = "5" >
+              <Row className='Row-Header'>{'STORY: '}</Row>
               <Row align ="left" style={{fontSize: 12, fontWeight: 'normal', fontFamily: 'futura'}}>
-                Penn has a thriving and intelligent Greek Life. However, there is limited interaction between
-                these large, philanthropic entities. As a result, the Penn Greek Relays present the opportunity for
-                 cooperation amongst all Greek Organizations to raise significant amounts of money for
-                 <a href= 'https://www.womenagainstabuse.org/'> Women Against Abuse</a>,
-                  a Philadelphia grass roots Non-Profit aiming at protecting families from domestic abuse.
+                <Col lg = {{ span: 12, offset: 2 }} md={{ span: 13, offset: 2 }}>{
+                  <p className = "Paragraph"> 
+                  <br></br>
+                  Penn has a thriving and intelligent Greek Life. However, there is limited interaction between
+                  these large, philanthropic entities. As a result, the Penn Greek Relays present the opportunity for
+                  cooperation amongst all Greek Organizations to raise significant amounts of money
+                   for <a target="_blank" href= 'https://www.womenagainstabuse.org/'> 
+                      Women Against Abuse
+                  </a>, a Philadelphia grass roots non-profit aiming at protecting families from domestic abuse.
+                  </p>
+                }
+                 </Col>
               </Row>
             </Col>
-            <Col md={{ span: 4, offset: 4 }}>{`STORY`}</Col>
+            <Col>
+              {<img width = "300" alt="Test Pic" src= {bridgeTest}></img>}
+            </Col>
           </Row>
           <Row key = 'Mission' ref={refs['Mission']}>
-            <Col lg="auto" className='Row-Header'>{`MISSION: `}</Col>
-            <Col md={{ span: 3, offset: 3 }}>{'TEST FONT'}<img alt="Test Pic" src= {bridgeTest}></img></Col>
+          <Col fluid = "true" md="auto" lg = "5" >
+              <Row className='Row-Header'>{'Mission: '}</Row>
+              <Row align ="left" style={{fontSize: 12, fontWeight: 'normal', fontFamily: 'futura'}}>
+                <Col lg = "10" md={{ span: 3, offset: 2 }}>{
+                  <p className = "Paragraph"> Penn has a thriving and intelligent Greek Life. However, there is limited interaction between
+                  these large, philanthropic entities. As a result, the Penn Greek Relays present the opportunity for
+                  cooperation amongst all Greek Organizations to raise significant amounts of money
+                   for <a target="_blank" href= 'https://www.womenagainstabuse.org/'> 
+                      Women Against Abuse
+                  </a>, a Philadelphia grass roots non-profit aiming at protecting families from domestic abuse.
+                  </p>
+                }
+                 </Col>
+              </Row>
+            </Col>
+            <Col md="auto">{<img width = "300" alt="Test Pic" src= {bridgeTest}></img>}</Col>
+            <Col md={{ span: 3, offset: 0 }}>
+            </Col>
           </Row>
           <Row key = 'Event' ref={refs['Event']}>
-            <Col lg="auto">{`EVENT: `}</Col>
+            <Col className = "Row-Header" lg="auto">{`EVENT: `}</Col>
             <Col md={{ span: 6, offset: 3 }}>{`EVENT`}</Col>
           </Row>
           <Row key = 'Get Involved' ref={refs['Get Involved']}>

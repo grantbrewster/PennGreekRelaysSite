@@ -66,8 +66,20 @@
   font-family: futura;
   font-style: bold;
   font-size: calc(10px + 2vmin);
-  font-size: 30px;
+  font-size: 100px;
   color: white;
+}
+
+.Paragraph {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  font-family: futura;
+  font-style: bold;
+  font-size: calc(10px + 2vmin);
+  font-size: 15px;
+  color: black;
 }
 
  #cleanButton:hover {
